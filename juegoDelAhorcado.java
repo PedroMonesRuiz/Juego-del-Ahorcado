@@ -45,7 +45,7 @@ public class juegoDelAhorcado {
     public static int inicio() {
         System.out.println("¡Bienvenido al juego del ahorcado!");
         System.out.println("");
-        System.out.print("Ingrese la palabra a adivinar de hasta 10 caracteres: ");
+        System.out.print("Ingrese la palabra a adivinar de al menos 2 caracteres: ");
         palabraAdivinar = SC.next();
         if (palabraAdivinar.length()< 2) {
             System.out.println("");
