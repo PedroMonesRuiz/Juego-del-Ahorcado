@@ -1,2 +1,2 @@
-# Juego-del-Ahorcado
-Juego del Ahorcado hecho con Java.
+# Juego-de-El-Ahorcado
+Juego de El Ahorcado desarrollado con Java.
